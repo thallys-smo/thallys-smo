@@ -9,7 +9,7 @@ aprimorando.
 <img width="71.75" height="28" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img width="106.75" height="28" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
 <img width="97.5" height="28" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blu" />
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img width="28" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
 
 
