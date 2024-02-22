@@ -1,4 +1,23 @@
-### Hi there 👋
+### Olá, meu nome é Thallys Olveira👋
+
+Estudante dedicado de Engenharia Mecatrônica, cursando o quinto ano de graduação, apaixonado por projetos, tecnologia, robótica
+etc.. Comunicativo e proativo, tenho familiaridade com diversas tecnologias e possuo muita vontade de apreender, sempre me
+aprimorando. 
+
+- Algumas Habilidades:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+          
+          
+          
+
+- Trabalhando com: 
+
 
 <!--
 **thallys-smo/thallys-smo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
