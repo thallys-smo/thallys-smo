@@ -4,23 +4,23 @@ Estudante dedicado de Engenharia Mecatrônica, cursando o quinto ano de graduaç
 etc.. Comunicativo e proativo, tenho familiaridade com diversas tecnologias e possuo muita vontade de apreender, sempre me
 aprimorando. 
 
-# Algumas Habilidades:
+#### Algumas Habilidades:
 <div display="inline">
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>     
-## 
 
-# Trabalhando com: 
+
+#### Trabalhando com: 
 <div display="inline">
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
-##   
+  
 
-## Redes Sociais
+#### Redes Sociais
 
 <div display="inline">
 <img width="50" height="50" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
