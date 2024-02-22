@@ -24,7 +24,7 @@ aprimorando.
 #### Redes Sociais e Contato
 
 <div display="inline">
-&nbsp; <a href = "www.linkedin.com/in/thallys-oliveira">
+&nbsp; <a href = "http://www.linkedin.com/in/thallys-oliveira">
 <img width="111" height="28" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;
 <img width="87.25" height="28" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
