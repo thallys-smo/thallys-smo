@@ -27,7 +27,6 @@ aprimorando.
 <a href = "http://www.linkedin.com/in/thallys-oliveira">
 <img width="111" height="28" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<img width="87.25" height="28" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>   
 
 <!--
